@@ -8,7 +8,7 @@ intro_paragraph: >-
   is top-notch and you’re now breathing a sigh of relief. Until you realize you
   don’t have a works cited. Don’t lose your cool. You have the research and the
   paper, the works cited is a piece of cake.
-categories: Citations
+categories: misc
 ---
 # How to Do a Works Cited Page
 
