@@ -9,7 +9,7 @@ intro_paragraph: >-
   the books, web pages, PDFs, journals and magazines that you used. Formatting
   each one is slightly different. Break down the format that you should use by
   looking at a few different examples.
-categories: Citations
+categories: misc
 ---
 # Citation Rules
 
